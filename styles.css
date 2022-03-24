@@ -19,7 +19,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #2a2733;
 }
 
 /* Section Styles */
@@ -86,7 +86,7 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: grey;
+  background-color: #a9a9a9;
   color: white;
 }
 
@@ -124,17 +124,14 @@ ul.skills {
   background: #0399ff;
 }
 
-.expsection {
-  margin: 30px;
-  padding: 20px;
-  text-align: left; 
-}
+
 .mycontact {
   margin-top: 100px ;
   border-radius: 10%;
   width: 200px;
   height: 200px;
   transform: scaleX(2);
+  margin-bottom: 100px;
 
 }
 
@@ -143,6 +140,7 @@ ul.skills {
   width: 200px;
   height: 200px;
   border-radius: 10%;
+  margin-right: 50px;
   transform: scaleX(2);
   
 }
