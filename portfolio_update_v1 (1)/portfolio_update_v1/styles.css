@@ -89,6 +89,8 @@ header .profile-image:hover {
   background-color: grey;
   color: white;
 }
+
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -98,6 +100,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  
 }
 .card:hover {
   border-color: #ff99ff;
@@ -131,6 +134,7 @@ ul.skills {
   border-radius: 10%;
   width: 200px;
   height: 200px;
+  transform: scaleX(2);
 
 }
 
@@ -139,6 +143,8 @@ ul.skills {
   width: 200px;
   height: 200px;
   border-radius: 10%;
+  transform: scaleX(2);
+  
 }
 footer {
   width: 100%;
