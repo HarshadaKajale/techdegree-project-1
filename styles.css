@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/rsz_laptop.jpg') no-repeat top center ;
+  background: url('images/rsz_galaxy.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -127,7 +127,7 @@ ul.skills {
 
 .mycontact {
   margin-top: 100px ;
-  border-radius: 10%;
+  border-radius: 50%;
   width: 200px;
   height: 200px;
   transform: scaleX(2);
