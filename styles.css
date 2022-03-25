@@ -133,19 +133,26 @@ ul.skills {
   }
 
 .myimgexp {
-  margin-top: 100px;
-  width: 200px;
-  height: 200px;
+  margin-top: 80px;
   border-radius: 10%;
-  margin-right: 50px;
-  transform: scaleX(2);
+  width: 400px;
+  height: 200px;
+  transition: .2s ease;
+  }
+
+.myimgexp:hover {
+  transform: rotate(5deg);
+  opacity: 0.3;
 }
+
 
 
 aside{
   font-size: 0.6rem;
   box-shadow: inset 5px 5px 5px -5px #ac9add;
 }
+
+
 
 footer {
   width: 100%;
