@@ -127,18 +127,19 @@ ul.skills {
 
 .mycontact {
   margin-top: 80px;
-  border-radius: 10%;
+  border-radius: 50%;
   width: 400px;
   height: 200px;
   }
 
 .myimgexp {
-  margin-top: 80px;
-  border-radius: 10%;
   width: 400px;
   height: 200px;
   transition: .2s ease;
+  margin: 40px;
+  
   }
+
 
 .myimgexp:hover {
   transform: rotate(5deg);
