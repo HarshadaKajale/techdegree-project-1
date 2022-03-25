@@ -126,14 +126,11 @@ ul.skills {
 
 
 .mycontact {
-  margin-top: 100px ;
+  margin-top: 80px;
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  transform: scaleX(2);
-  margin-bottom: 100px;
-
-}
+  }
 
 .myimgexp {
   margin-top: 100px;
@@ -142,18 +139,12 @@ ul.skills {
   border-radius: 10%;
   margin-right: 50px;
   transform: scaleX(2);
-  
 }
 
-aside { 
-  width: 20%;
-  padding-left: 10px;
-  margin-left: 10px;
-  float: right;
-  box-shadow: inset 5px 0 5px -5px #29627e;
-  font-style: italic;
-  color: #3e5764;
-  font-size: 14px;
+
+aside{
+  font-size: 0.6rem;
+  box-shadow: inset 5px 5px 5px -5px #ac9add;
 }
 
 footer {
